@@ -1,14 +1,15 @@
 {
   "name": "knockout-select2",
   "main": "knockout-select2.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Feng Zhou <zf.pascal@gmail.com>"
   ],
   "description": "select2 knockout intergration",
   "keywords": [
     "knockout",
-    "select2"
+    "select2",
+    "knockout-select2"
   ],
   "license": "MIT",
   "ignore": [
