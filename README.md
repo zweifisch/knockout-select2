@@ -13,10 +13,7 @@ ko.applyBindings(model);
 *put select2 after value and options*
 
 ```html
-<div>
-	<select data-bind="value: db, options: dbs, select2: {}"></select>
-	<span data-bind="text: db"></span>
-	<select data-bind="value: db, options: dbs, select2: {}"></select>
-</div>
+<select data-bind="value: db, options: dbs, select2: {}"></select>
 ```
 
+see it in [action](http://zweifisch.github.io/knockout-select2/)
