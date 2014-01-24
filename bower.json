@@ -1,0 +1,26 @@
+{
+  "name": "knockout-select2",
+  "main": "knockout-select2.js",
+  "version": "0.0.1",
+  "authors": [
+    "Feng Zhou <zf.pascal@gmail.com>"
+  ],
+  "description": "select2 knockout intergration",
+  "keywords": [
+    "knockout",
+    "select2"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "select2": "~3.4.5",
+    "knockout.js": "~3.0.0"
+  }
+}
